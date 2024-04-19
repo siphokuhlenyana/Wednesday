@@ -1,0 +1,26 @@
+
+h2 {
+     
+color: rgb(0, 3, 3);
+
+}
+body {
+    background-image: url('pexels.jpg'); 
+    /* background-repeat: no-repeat;  */ 
+    /* background-attachment: fixed;    */
+    background-size: cover;  
+  
+ }
+
+ table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    
+    }
+    
+    td, th {
+    border: 1px solid #b45353;
+    text-align: left;
+    padding: 5px;
+    }
